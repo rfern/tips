@@ -1,13 +1,13 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-analytics : UA-8418273-8
+name : UQ Computing Society Tips
+brand : UQ Computing Society
+description : Tips brought to you by the UQ Computing Society
+keyword :
+url : http://UQComputingSociety.github.io/tips/
+email : contact@uqcs.org.au
+twitter : UQComputing
+github : UQComputingSociety
+author : UQ Computing Society
+analytics : UA-59689206-1
 year : 2015
 markdown : kramdown
 exclude :
